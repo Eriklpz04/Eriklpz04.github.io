@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-collection: Files
+collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This Resume is up to date and references will be provided upon request.'
 date: 2009-10-01
