@@ -1,13 +1,11 @@
 ---
 title: "Resume"
 collection: Files
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: /publication/resume
+excerpt: 'This Resume is up to date and references will be provided upon request.'
+date: 2025
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://eriklopez.github.io/files/paper1.pdf'
 ---
 
 This Resume is up to date and references will be provided upon request.
