@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 Website under construction!
-
-paperurl: 'https://eriklpz04.github.io/files/Resume-2025.pdf'
+For now click the link below for my Resume.
+[Resume](https://eriklpz04.github.io/files/Resume-2025.pdf)
 
