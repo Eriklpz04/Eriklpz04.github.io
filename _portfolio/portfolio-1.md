@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Project WhiteRock"
+excerpt: "This is a web app done for my COSC 4353 software design course 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
