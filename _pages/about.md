@@ -16,11 +16,9 @@ I am an aspiring software engineer.
 
 Feel free to connect with me on Linked in and Github by accessing the links on the left.
 
-For now the website is still under construction!  
-
 Please check back periodically for updates on my website.
 
 For now, click the link below for my Resume.
 
-[Resume](https://eriklpz04.github.io/files/Resume-2025.pdf)
+[Resume](https://eriklpz04.github.io/files/Erik_updated_resume.pdf)
 ---
